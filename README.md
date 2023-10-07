@@ -1,3 +1,4 @@
+![My Avatar](/assets/images/avatar.png)
 - 👋 Hi, I’m @gmurvoy
 - 🌱 I’m currently learning how to work with GitHub
 - 💞️ This is my first profile
